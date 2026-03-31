@@ -43,11 +43,12 @@ This project analyses customer churn behaviour using Python and Tableau to ident
 - `images/dashboard_screenshot.png` — screenshot of the final dashboard
 
 ## Live Dashboard
-🔗 [View Interactive Tableau Dashboard](https://public.tableau.com/views/JobApplicationtableausheets/CustomerChurnRiskAnalysisDashboard)
+
+🔗 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/sunday.titilayo/viz/CustomerchurnandRiskAnalysisDashboard_/CustomerChurnRiskAnalysisDashboard) 
 
 ## Dashboard Preview
 
-!Dashboard(Dashboard_screenshot.png)
+![Dashboard](images/dashboard_screenshot.png)
 
 ## Business Value
 This project demonstrates how data analysis and visualisation can help businesses identify churn drivers, prioritise high-risk customer groups, and support more informed retention and pricing decisions.
