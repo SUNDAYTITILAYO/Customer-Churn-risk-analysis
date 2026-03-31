@@ -47,7 +47,7 @@ View the live Tableau dashboard here:https://public.tableau.com/views/JobApplica
 
 ## Dashboard Preview
 
-!Dashboard(images/dashboard_screenshot.png)
+!Dashboard(dashboard_screenshot.png)
 
 ## Business Value
 This project demonstrates how data analysis and visualisation can help businesses identify churn drivers, prioritise high-risk customer groups, and support more informed retention and pricing decisions.
