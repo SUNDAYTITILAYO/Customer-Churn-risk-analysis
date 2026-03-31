@@ -48,7 +48,7 @@ This project analyses customer churn behaviour using Python and Tableau to ident
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard_screenshot.png)
+<img src="images/dashboard_screenshot.png" width="700">
 
 ## Business Value
 This project demonstrates how data analysis and visualisation can help businesses identify churn drivers, prioritise high-risk customer groups, and support more informed retention and pricing decisions.
