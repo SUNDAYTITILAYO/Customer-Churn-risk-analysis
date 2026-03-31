@@ -43,7 +43,7 @@ This project analyses customer churn behaviour using Python and Tableau to ident
 - `images/dashboard_screenshot.png` — screenshot of the final dashboard
 
 ## Live Dashboard
-View the live Tableau dashboard here:https://public.tableau.com/views/JobApplicationtableausheets/CustomerChurnRiskAnalysisDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link.
+View the live Tableau dashboard here :https: //public.tableau.com /views/JobApplicationtableausheets/ CustomerChurnRiskAnalysisDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link.
 
 ## Dashboard Preview
 
