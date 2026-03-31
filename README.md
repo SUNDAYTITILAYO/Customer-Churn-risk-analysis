@@ -1,7 +1,15 @@
 # Customer Churn & Risk Analysis Dashboard
 
 ## Project Overview
-This project analyses customer churn behaviour using Python and Tableau. The goal was to identify high-risk customer segments, understand how contract type affects churn, and build an interactive dashboard to support retention and pricing decisions.
+This project analyses customer churn behaviour using Python and Tableau to identify high-risk customer segments and support data-driven retention and pricing strategies. A predictive model was developed to estimate churn probability, and insights were visualised through an interactive dashboard.
+
+## Skills Demonstrated
+- Data Cleaning & Preprocessing
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Predictive Modelling (Logistic Regression)
+- Data Visualisation (Tableau)
+- Business Insight Communication
 
 ## Tools Used
 - Python
@@ -35,7 +43,13 @@ This project analyses customer churn behaviour using Python and Tableau. The goa
 - `images/dashboard_screenshot.png` — screenshot of the final dashboard
 
 ## Live Dashboard
-View the live Tableau dashboard here: https://public.tableau.com/views/JobApplicationtableausheets/CustomerChurnRiskAnalysisDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link.
+View the live Tableau dashboard here:https://public.tableau.com/views/JobApplicationtableausheets/CustomerChurnRiskAnalysisDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link.
+
+## Dashboard Preview
+
+!Dashboard(images/dashboard_screenshot.png)
 
 ## Business Value
 This project demonstrates how data analysis and visualisation can help businesses identify churn drivers, prioritise high-risk customer groups, and support more informed retention and pricing decisions.
+
+
